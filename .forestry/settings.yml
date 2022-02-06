@@ -60,10 +60,10 @@ sections:
 - type: document
   path: exampleSite/config.toml
   label: Configuration
-upload_dir: exampleSite/static/images
+upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''
-use_front_matter_path: false
+use_front_matter_path: 
 file_template: ":filename:"
 build:
   preview_env:
