@@ -10,12 +10,6 @@ copyright = "Designed By PhenomCollection"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Designed By PhenomCollection"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
