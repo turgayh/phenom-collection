@@ -6,14 +6,20 @@ webhook_url:
 sections:
 - type: heading
   label: Underwear
-- type: document
-  path: content/products/underwear/**/*
+- type: directory
+  path: content/products/underwear
   label: Underwear
+  create: all
+  match: "**/*"
+  templates:
+  - product
 - type: heading
   label: Tracksuits
-- type: document
-  path: content/products/tracksuits/**/*
+- type: directory
+  path: content/products/tracksuits
   label: Tracksuits
+  create: all
+  match: "**/*"
 - type: heading
   label: Homepage
 - type: document
