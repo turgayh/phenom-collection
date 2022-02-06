@@ -26,7 +26,7 @@ url = "contact"
 weight = 1
 [[menu.main]]
 name = "Underwear"
-url = "products/underwear"
+url = "underwear"
 weight = 4
 [[menu.main]]
 name = "Tracksuit"
