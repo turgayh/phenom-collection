@@ -17,9 +17,6 @@ fields:
 - type: text
   name: price
   label: price
-- type: text
-  name: discount_price
-  label: discount_price
 - type: tag_list
   name: colors
   label: colors
