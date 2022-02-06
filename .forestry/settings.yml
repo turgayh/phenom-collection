@@ -12,7 +12,7 @@ sections:
 - type: heading
   label: Products
 - type: directory
-  path: content/english/products
+  path: content/products
   label: Product (en)
   create: documents
   match: "**/*"
@@ -21,12 +21,12 @@ sections:
 - type: heading
   label: Contact
 - type: document
-  path: content/english/contact/_index.md
+  path: content/contact/_index.md
   label: Contact (en)
 - type: heading
   label: All Pages
 - type: directory
-  path: content/english
+  path: content
   label: All Page (en)
   create: all
   match: "**/*"
