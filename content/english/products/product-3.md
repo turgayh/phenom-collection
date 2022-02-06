@@ -1,27 +1,27 @@
 ---
-title: "Xiaomi Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-4.png"
-
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-# button link if you don't want to use snipcart. empty link will not show button
+title: Barcelona Tracksuit
+date: 2022-02-06T05:22:16+00:00
+images:
+- "/images/barca1.jpg"
+- "/images/barca2.jpg"
+- "/images/barca2.HEIC"
+- "/images/barca1.HEIC"
+description: Wholesale and Retail sale avaiable.
+price: '20.00'
+discount_price: '20.00'
+colors:
+- black
+- white
+- gray
+sizes:
+- small
+- medium
+- large
+- xlarge
+- xxlarge
 button_link: "#"
+tags:
+- tracksuit
+- barcelona
 
-draft: false
 ---
-
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
