@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Phenom Collcetion, Tracksuits and Underwear
   content: ''
-  image: images/welcome.png
+  image: images/welcome.jpg
   button:
     enable: true
     label: Browse All Products
