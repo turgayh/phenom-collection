@@ -55,10 +55,10 @@ name = "Home"
 url = "/"
 weight = 1
 [params]
-author = "Themefisher"
+author = "Hakan Turgay"
 contact_form_action = "#"
 currency = "$"
-description = "This is meta description"
+description = "tracksuits , underwear, wholesale , retailsale"
 logo = "images/logo.png"
 logo_width = "100px"
 [[params.plugins.css]]
