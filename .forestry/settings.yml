@@ -5,6 +5,18 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Underwear
+- type: document
+  path: content/products/underwear/**/*
+  label: Underwear
+  match: "**/*"
+- type: heading
+  label: Tracksuits
+- type: document
+  path: content/products/tracksuits/**/*
+  label: Tracksuits
+  match: "**/*"
+- type: heading
   label: Homepage
 - type: document
   path: data/en/homepage.yml
