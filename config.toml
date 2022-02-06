@@ -6,13 +6,13 @@ theme = "vex"
 title = "Phenom Collection"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By PhenomCollection"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By PhenomCollection"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
@@ -84,7 +84,7 @@ enable = true
 preloader = ""
 [params.snipcart]
 enable = true
-snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+snipcart_api = "Zjg5ZDhlNDMtYmE2Ny00ZTk5LThkMWMtMDM4MTMyODBiNTYwNjM3Nzk3NDc4MjkyNjgyNjc2"
 [params.subscription]
 mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074"
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
