@@ -1,6 +1,6 @@
 baseurl = "http://phenomcollcetion.com/"
 disableLanguages = []
-googleAnalytics = ""
+googleAnalytics = "G-FXDNZPHYPT"
 summarylength = "20"
 theme = "vex"
 title = "Phenom Collection"
