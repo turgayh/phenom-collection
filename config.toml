@@ -25,25 +25,21 @@ name = "Contact"
 url = "contact"
 weight = 1
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+name = "Tracksuits"
+url = "products/tracksuits"
+weight = 4
+[[menu.main]]
+name = "Contact"
+url = "contact"
+weight = 3
 [[menu.main]]
 name = "Products"
 url = "products"
 weight = 2
 [[menu.main]]
-name = "Tracksuit"
-url = "tracksuits"
-weight = "3"
-[[menu.main]]
-name = "Underwear"
-url = "underwear"
-weight = "4"
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = "5"
+name = "Home"
+url = "/"
+weight = 1
 [params]
 author = "Hakan Turgay"
 contact_form_action = "#"
