@@ -27,3 +27,5 @@ fields:
   type: tag_list
   default: []
   label: tags
+pages:
+- content/english/products/tracksuits/barcelona-tracksuit-blue.md
