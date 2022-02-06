@@ -30,7 +30,7 @@ url = "products/underwear"
 weight = 4
 [[menu.main]]
 name = "Tracksuit"
-url = "products/tracksuits"
+url = "tracksuits"
 weight = 3
 [[menu.main]]
 name = "Contact"
