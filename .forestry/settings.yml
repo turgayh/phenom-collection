@@ -9,7 +9,7 @@ sections:
 - type: directory
   path: content/products/underwear
   label: Underwear
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - product
@@ -18,8 +18,10 @@ sections:
 - type: directory
   path: content/products/tracksuits
   label: Tracksuits
-  create: all
+  create: documents
   match: "**/*"
+  templates:
+  - product
 - type: heading
   label: Homepage
 - type: document
