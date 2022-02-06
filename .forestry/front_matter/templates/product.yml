@@ -26,3 +26,7 @@ fields:
 - type: tag_list
   name: sizes
   label: sizes
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
