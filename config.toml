@@ -25,14 +25,6 @@ name = "Contact"
 url = "contact"
 weight = 1
 [[menu.main]]
-name = "Underwear"
-url = "underwear"
-weight = 4
-[[menu.main]]
-name = "Tracksuit"
-url = "tracksuits"
-weight = 3
-[[menu.main]]
 name = "Contact"
 url = "contact"
 weight = 5
