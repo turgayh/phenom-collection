@@ -1,12 +1,9 @@
 ---
 banner:
   enable: true
-  title: Believe in Technology, Make the change
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima
-    hic at, nostrum nihil!
-  image: images/watch.png
+  title: Phenom Collcetion, Tracksuits and Underwear
+  content: ''
+  image: images/welcome.png
   button:
     enable: true
     label: Browse All Products
@@ -42,7 +39,7 @@ features:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
       inventore?
 promo:
-  enable: true
+  enable: false
   image: images/watch.png
   title: Designed by professional , the benefit for creative gigs
   content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore,
@@ -50,7 +47,7 @@ promo:
     obcaecati dolor iure iusto omnis quis eum. <br><br> Lorem ipsum dolor sit amet,
     consectetur adipisicing elit. Facilis commodi odit, illo, qui aliquam dol
 about_product:
-  enable: true
+  enable: false
   title: Why Choose Apple Watch
   items:
   - image: images/showcase/showcase-4.png
@@ -78,10 +75,10 @@ subscription:
   enable: true
   bg_image: images/call-to-action.jpg
   title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  content: ''
   placeholder: Your Email Address Here
 testimonial:
-  enable: true
+  enable: false
   title: Watch Review
   testimonial_item:
   - name: Jonathon Andrew
