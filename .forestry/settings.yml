@@ -32,7 +32,7 @@ sections:
 - type: directory
   path: content/english/products
   label: Product (en)
-  create: documents
+  create: all
   match: "**/*"
   templates:
   - product
