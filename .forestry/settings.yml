@@ -7,7 +7,7 @@ sections:
 - type: heading
   label: Jersey
 - type: directory
-  path: content/english/products/jersey
+  path: products/jersey
   label: Jersey
   create: all
   match: "**/*"
@@ -31,13 +31,6 @@ sections:
   path: content/english/products/underwear
   label: Underwear
   create: documents
-  match: "**/*"
-  templates:
-  - product
-- type: directory
-  path: content/english/products
-  label: Product (en)
-  create: all
   match: "**/*"
   templates:
   - product
