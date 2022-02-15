@@ -7,5 +7,8 @@ price = "7"
 sizes = ["S", "M", "L", "XL", "XXL"]
 tags = ["Jersey ", "bayernünchen"]
 title = "Bayern Munchen Jersey Black"
+[menu.main]
+name = "Jersey"
+weight = 5
 
 +++
