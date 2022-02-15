@@ -1,6 +1,9 @@
 ---
-title: "All Product"
-description : "this is a meta description"
-draft: false
----
+title: All Product
+description: this is a meta description
+menu:
+  main:
+    name: Products
+    weight: 2
 
+---

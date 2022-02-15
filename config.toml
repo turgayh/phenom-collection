@@ -37,10 +37,6 @@ name = "Contact"
 url = "contact"
 weight = 5
 [[menu.main]]
-name = "Products"
-url = "products"
-weight = 2
-[[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
