@@ -5,6 +5,15 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Jersey
+- type: directory
+  path: content/english/products/jersey
+  label: Jersey
+  create: all
+  match: "**/*"
+  templates:
+  - product
+- type: heading
   label: Homepage
 - type: document
   path: data/en/homepage.yml
@@ -22,13 +31,6 @@ sections:
   path: content/english/products/underwear
   label: Underwear
   create: documents
-  match: "**/*"
-  templates:
-  - product
-- type: directory
-  path: content/english/products/jersey
-  label: Jersey
-  create: all
   match: "**/*"
   templates:
   - product
