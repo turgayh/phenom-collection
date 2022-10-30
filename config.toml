@@ -32,6 +32,10 @@ weight = 3
 name = "Home"
 url = "/"
 weight = 1
+[[menu.main]]
+name = "Telegram"
+url = "/telegram"
+weight = 1
 [params]
 author = "Hakan Turgay"
 contact_form_action = "#"
